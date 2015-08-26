@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">So viele Tage lebe ich</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label">Bitte Geburtsdatum eingeben</string>
+    <string name="howmanydays">Wie viele Tage lebe ich schon?</string>
+</resources>
